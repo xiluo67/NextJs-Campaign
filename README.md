@@ -1,4 +1,4 @@
 # NextJs-Campaign
 
-##install dependencies:
+## install dependencies:
 npm install next@12 react react-dom
